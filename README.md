@@ -1,6 +1,6 @@
-# fate-fortune
+# Fortune
 
-## Want to know your fate, go on the website and click on the button. 
+## Want to know your fate, go on the website and find out!
 
 ## Website
 ```
