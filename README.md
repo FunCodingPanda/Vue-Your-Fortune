@@ -1,5 +1,12 @@
 # fate-fortune
 
+## Want to know your fate, go on the website and click on the button. 
+
+## Website
+```
+vue-your-fortune.surge.sh
+```
+
 ## Project setup
 ```
 yarn install
